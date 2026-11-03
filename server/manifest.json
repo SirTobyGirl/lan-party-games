@@ -1,0 +1,164 @@
+{
+ "lanparty_updates": 1,
+ "games": [
+  {
+   "id": "racer",
+   "title": "LAN Party Racer",
+   "short": "Racer",
+   "blurb": "3-lap arcade races. Drop in from a free grid slot.",
+   "binary": "racer",
+   "web": "web",
+   "handheld": "handheld",
+   "udp": 47800,
+   "web_port": 8080,
+   "logs": "race-logs",
+   "round_end": "host: race \\d+ over",
+   "package": {
+    "file": "game.racer.20c5a0c95343.tar.gz",
+    "sha256": "20c5a0c9534357bdf1f8b454d44ac147d0775900ef28d5efd6a25b2aa9f13409",
+    "size": 3012052
+   },
+   "handheld_files": [
+    "racer.racer.57e514645c2b"
+   ]
+  },
+  {
+   "id": "racer2",
+   "title": "LAN Party Racer v2",
+   "short": "Racer v2",
+   "blurb": "Ten-car PS1-style races with jumps, on three circuits in turn. AI fills the grid.",
+   "binary": "racer2",
+   "web": "web",
+   "handheld": "handheld",
+   "udp": 47880,
+   "web_port": 8160,
+   "logs": "race-logs",
+   "round_end": "host: race \\d+ over",
+   "package": {
+    "file": "game.racer2.df4cdf87e40b.tar.gz",
+    "sha256": "df4cdf87e40bf0b72258cc62b8291e8b7a31e4bf9e6026cc09f80baadc36aa1f",
+    "size": 3313480
+   },
+   "handheld_files": [
+    "racer2.racer2.9d7c580b91de"
+   ]
+  },
+  {
+   "id": "football",
+   "title": "LAN Party Football",
+   "short": "Football",
+   "blurb": "Five-a-side. Take over a footballer mid-match.",
+   "binary": "football",
+   "web": "web",
+   "handheld": "handheld",
+   "udp": 47810,
+   "web_port": 8090,
+   "logs": "match-logs",
+   "round_end": "host: full time",
+   "package": {
+    "file": "game.football.ef454ca28ff6.tar.gz",
+    "sha256": "ef454ca28ff68f5ccb805882b5e00a6f803aceaf0c8e343b37f5bd29d7424544",
+    "size": 2826361
+   },
+   "handheld_files": [
+    "football.football.972acf24f583"
+   ]
+  },
+  {
+   "id": "skate",
+   "title": "LAN Party Skate",
+   "short": "Skate",
+   "blurb": "Two-minute rounds. Chain tricks, highest score wins.",
+   "binary": "skate",
+   "web": "web",
+   "handheld": "handheld",
+   "udp": 47820,
+   "web_port": 8100,
+   "logs": "round-logs",
+   "round_end": "host: results in",
+   "package": {
+    "file": "game.skate.7c0320488cd1.tar.gz",
+    "sha256": "7c0320488cd12c3f2a408bc6d2e707a2ac2d36c2416352796e55a7c3ee788647",
+    "size": 2898862
+   },
+   "handheld_files": [
+    "skate.skate.ee3a63ef19c5"
+   ]
+  },
+  {
+   "id": "archery",
+   "title": "LAN Party Archery",
+   "short": "Archery",
+   "blurb": "Three-minute bow-and-arrow deathmatch. Drop in any time.",
+   "binary": "archery",
+   "web": "web",
+   "handheld": "handheld",
+   "udp": 47830,
+   "web_port": 8110,
+   "logs": "round-logs",
+   "round_end": "host: results in",
+   "package": {
+    "file": "game.archery.30dc10969a93.tar.gz",
+    "sha256": "30dc10969a936d4ab39da7c196cf7cf20a4cce5f1652e347a775e88b6d0f8a21",
+    "size": 2907439
+   },
+   "handheld_files": [
+    "archery.archery.931960a63fd7"
+   ]
+  },
+  {
+   "id": "city",
+   "title": "LAN Party Peaceful City",
+   "short": "City",
+   "blurb": "Sandbox town. Drive, walk and skate; rain, cheese and a police chase.",
+   "binary": "city",
+   "web": "web",
+   "handheld": "handheld",
+   "udp": 47850,
+   "web_port": 8130,
+   "logs": "city-logs",
+   "round_end": "host: city calm",
+   "package": {
+    "file": "game.city.75a6aa8f3fe9.tar.gz",
+    "sha256": "75a6aa8f3fe9fbdf2026f469558116c3fd899959fb40383723c3cb4a6017967a",
+    "size": 3046284
+   },
+   "handheld_files": [
+    "city.city.4625bec7773e"
+   ]
+  },
+  {
+   "id": "climbers",
+   "title": "Mountain Climbers",
+   "short": "Climbers",
+   "blurb": "Race to the top of the mountain. First one to the flag wins!",
+   "binary": "climbers",
+   "web": "web",
+   "handheld": "handheld",
+   "udp": 47860,
+   "web_port": 8140,
+   "logs": "round-logs",
+   "round_end": "host: results in",
+   "package": {
+    "file": "game.climbers.7c5e0b29cdfc.tar.gz",
+    "sha256": "7c5e0b29cdfc83f82114ec12f2464b9cd0fbb717592581a335774cfead732ae5",
+    "size": 2920835
+   },
+   "handheld_files": [
+    "climbers.climbers.7c27980cd17c"
+   ]
+  }
+ ],
+ "hub": {
+  "file": "hub.core.4cc26569b353.tar.gz",
+  "sha256": "4cc26569b3539597032b868e9f1116b2d76c2740df9500b319f56f52abfa7e01",
+  "size": 50919
+ },
+ "announcer": {
+  "file": "announcer.voice.2cc23958fc7e.tar.gz",
+  "sha256": "2cc23958fc7eaf0420d52c41dbc291cf019da72365825d36f3f5f78f9a85157a",
+  "size": 1251175
+ },
+ "version": "20261103.211018",
+ "published": "2026-11-03 21:10 UTC"
+}
