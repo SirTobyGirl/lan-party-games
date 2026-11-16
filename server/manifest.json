@@ -150,8 +150,8 @@
   }
  ],
  "hub": {
-  "file": "hub.core.fd5b705700ba.tar.gz",
-  "sha256": "fd5b705700ba36409d42a9c42a0ab28e9a597c99ef3cf021ed3d909394b1597a",
+  "file": "hub.core.7d6149e59ae5.tar.gz",
+  "sha256": "7d6149e59ae58f0e2090b30cf7ae84f7c7ca51c7bb7552c38c0c5e7cba484c73",
   "size": 63477
  },
  "announcer": {
@@ -159,6 +159,6 @@
   "sha256": "c46f81f9dc0c5901de0d608e54d631c2761b1bc51bf47b27dce7b2e044dfcc99",
   "size": 1265299
  },
- "version": "20261116.190128",
- "published": "2026-11-16 19:01 UTC"
+ "version": "20261116.190211",
+ "published": "2026-11-16 19:02 UTC"
 }
