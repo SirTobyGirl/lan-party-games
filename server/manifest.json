@@ -161,12 +161,12 @@
    "logs": "round-logs",
    "round_end": "host: results in",
    "package": {
-    "file": "game.spies.06ce85928b1a.tar.gz",
-    "sha256": "06ce85928b1aa4bb7a7103ae81bfa1cad05d48d3d6a2fa94dc929519bc84a08e",
-    "size": 2937772
+    "file": "game.spies.3852ccd523ea.tar.gz",
+    "sha256": "3852ccd523eaeb23bba8348114d299c3db938578d13a2976e864c3033e74f523",
+    "size": 2946626
    },
    "handheld_files": [
-    "spies.spies.92912fbb0abb"
+    "spies.spies.e48f2073b96d"
    ]
   }
  ],
@@ -180,6 +180,6 @@
   "sha256": "c811b66f138a888daff96f128235ba3ea0c441f4ebd222775a097ee85b2141ff",
   "size": 1291159
  },
- "version": "20261116.195450",
- "published": "2026-11-16 19:54 UTC"
+ "version": "20261116.235651",
+ "published": "2026-11-16 23:56 UTC"
 }
