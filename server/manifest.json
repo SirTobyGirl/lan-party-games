@@ -147,6 +147,27 @@
    "handheld_files": [
     "climbers.climbers.7c27980cd17c"
    ]
+  },
+  {
+   "id": "spies",
+   "title": "LAN Party Spies",
+   "short": "Spies",
+   "blurb": "Can you find the spy? Blend into the crowd of 50 while a hunter takes aim.",
+   "binary": "spies",
+   "web": "web",
+   "handheld": "handheld",
+   "udp": 47870,
+   "web_port": 8150,
+   "logs": "round-logs",
+   "round_end": "host: results in",
+   "package": {
+    "file": "game.spies.06ce85928b1a.tar.gz",
+    "sha256": "06ce85928b1aa4bb7a7103ae81bfa1cad05d48d3d6a2fa94dc929519bc84a08e",
+    "size": 2937772
+   },
+   "handheld_files": [
+    "spies.spies.92912fbb0abb"
+   ]
   }
  ],
  "hub": {
@@ -155,10 +176,10 @@
   "size": 63477
  },
  "announcer": {
-  "file": "announcer.voice.c46f81f9dc0c.tar.gz",
-  "sha256": "c46f81f9dc0c5901de0d608e54d631c2761b1bc51bf47b27dce7b2e044dfcc99",
-  "size": 1265299
+  "file": "announcer.voice.c811b66f138a.tar.gz",
+  "sha256": "c811b66f138a888daff96f128235ba3ea0c441f4ebd222775a097ee85b2141ff",
+  "size": 1291159
  },
- "version": "20261116.190211",
- "published": "2026-11-16 19:02 UTC"
+ "version": "20261116.195450",
+ "published": "2026-11-16 19:54 UTC"
 }
