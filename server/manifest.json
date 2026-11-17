@@ -140,12 +140,12 @@
    "logs": "round-logs",
    "round_end": "host: results in",
    "package": {
-    "file": "game.climbers.7c5e0b29cdfc.tar.gz",
-    "sha256": "7c5e0b29cdfc83f82114ec12f2464b9cd0fbb717592581a335774cfead732ae5",
-    "size": 2920835
+    "file": "game.climbers.5410f27d01d0.tar.gz",
+    "sha256": "5410f27d01d02852fc5d9da640dfce8e06c93d01017971679b9ff9adb1e14576",
+    "size": 2951036
    },
    "handheld_files": [
-    "climbers.climbers.7c27980cd17c"
+    "climbers.climbers.be2edb3a6445"
    ]
   },
   {
@@ -171,15 +171,15 @@
   }
  ],
  "hub": {
-  "file": "hub.core.7d6149e59ae5.tar.gz",
-  "sha256": "7d6149e59ae58f0e2090b30cf7ae84f7c7ca51c7bb7552c38c0c5e7cba484c73",
-  "size": 63477
+  "file": "hub.core.a3a7aa2d363a.tar.gz",
+  "sha256": "a3a7aa2d363a512ca913a4a068f134e963e5e495fecdff487f3fa09c7e26a4ba",
+  "size": 64939
  },
  "announcer": {
   "file": "announcer.voice.c811b66f138a.tar.gz",
   "sha256": "c811b66f138a888daff96f128235ba3ea0c441f4ebd222775a097ee85b2141ff",
   "size": 1291159
  },
- "version": "20261116.235651",
- "published": "2026-11-16 23:56 UTC"
+ "version": "20261117.001917",
+ "published": "2026-11-17 00:19 UTC"
 }
