@@ -119,12 +119,12 @@
    "logs": "city-logs",
    "round_end": "host: city calm",
    "package": {
-    "file": "game.city.65b8f21f1b16.tar.gz",
-    "sha256": "65b8f21f1b16e27b6ba9f255a01a2e897dce59438e8ab693d03f787ca0e9ccf8",
-    "size": 3050970
+    "file": "game.city.cdd64a8b94bc.tar.gz",
+    "sha256": "cdd64a8b94bcd0d18c24228b7d0a07a72b19f97b9058c2555f48a08e120bb661",
+    "size": 3289226
    },
    "handheld_files": [
-    "city.city.4625bec7773e"
+    "city.city.5f5906594391"
    ]
   },
   {
@@ -171,15 +171,15 @@
   }
  ],
  "hub": {
-  "file": "hub.core.256a39ec1cb6.tar.gz",
-  "sha256": "256a39ec1cb654cd5e579fb511b47f017674a897ca45b9574d33e69651add25a",
-  "size": 64938
+  "file": "hub.core.a3a7aa2d363a.tar.gz",
+  "sha256": "a3a7aa2d363a512ca913a4a068f134e963e5e495fecdff487f3fa09c7e26a4ba",
+  "size": 64939
  },
  "announcer": {
   "file": "announcer.voice.c811b66f138a.tar.gz",
   "sha256": "c811b66f138a888daff96f128235ba3ea0c441f4ebd222775a097ee85b2141ff",
   "size": 1291159
  },
- "version": "20261117.004334",
- "published": "2026-11-17 00:43 UTC"
+ "version": "20261117.085332",
+ "published": "2026-11-17 08:53 UTC"
 }
