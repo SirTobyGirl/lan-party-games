@@ -26,7 +26,7 @@
    "id": "racer2",
    "title": "LAN Party Racer v2.1",
    "short": "Racer v2.1",
-   "blurb": "Ten-car PS1-style races with jumps, on four circuits in turn, including Hackworth Park in Shildon. AI rivals with their own driving styles.",
+   "blurb": "Ten-car PS1-style races with jumps, on nine circuits in turn: Hackworth Park in Shildon, a chocolate factory, a figure-8 with a crossroads, an ice palace, a monster door vault and a coral reef. AI rivals with their own driving styles.",
    "binary": "racer2",
    "web": "web",
    "handheld": "handheld",
@@ -35,12 +35,12 @@
    "logs": "race-logs",
    "round_end": "host: race \\d+ over",
    "package": {
-    "file": "game.racer2.63bef75a5d6c.tar.gz",
-    "sha256": "63bef75a5d6cc9cd1a6065ca66c25fca0285ef4cadebad324a3557ae3fdf8a61",
-    "size": 3410565
+    "file": "game.racer2.69fa543e53a1.tar.gz",
+    "sha256": "69fa543e53a178c054233b6d724ac3b49c8093c3499477160c7aace0f1fb63bd",
+    "size": 3615974
    },
    "handheld_files": [
-    "racer2.racer2.fb210a57438f"
+    "racer2.racer2.c88c8aaf9ec8"
    ]
   },
   {
@@ -197,10 +197,10 @@
   "size": 64680
  },
  "announcer": {
-  "file": "announcer.voice.2c7074376e1c.tar.gz",
-  "sha256": "2c7074376e1cb9a3331324ee83972c197d62b7c25a464af7c5a6fde711fee216",
-  "size": 1515907
+  "file": "announcer.voice.a2fd819b4afb.tar.gz",
+  "sha256": "a2fd819b4afb7d52626441a1667f750c1acb1f568d7ef24d686f0aab0e107507",
+  "size": 1584022
  },
- "version": "20261117.114100",
- "published": "2026-11-17 11:41 UTC"
+ "version": "20261117.130313",
+ "published": "2026-11-17 13:03 UTC"
 }
