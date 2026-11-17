@@ -171,15 +171,15 @@
   }
  ],
  "hub": {
-  "file": "hub.core.a3a7aa2d363a.tar.gz",
-  "sha256": "a3a7aa2d363a512ca913a4a068f134e963e5e495fecdff487f3fa09c7e26a4ba",
-  "size": 64939
+  "file": "hub.core.a1b204389500.tar.gz",
+  "sha256": "a1b204389500d12c672d7ad4ebadc0517654def14080b585f995bc435824e804",
+  "size": 64680
  },
  "announcer": {
   "file": "announcer.voice.c811b66f138a.tar.gz",
   "sha256": "c811b66f138a888daff96f128235ba3ea0c441f4ebd222775a097ee85b2141ff",
   "size": 1291159
  },
- "version": "20261117.085332",
- "published": "2026-11-17 08:53 UTC"
+ "version": "20261117.092809",
+ "published": "2026-11-17 09:28 UTC"
 }
