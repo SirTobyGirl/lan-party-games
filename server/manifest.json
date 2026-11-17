@@ -14,9 +14,9 @@
    "logs": "race-logs",
    "round_end": "host: race \\d+ over",
    "package": {
-    "file": "game.racer.20c5a0c95343.tar.gz",
-    "sha256": "20c5a0c9534357bdf1f8b454d44ac147d0775900ef28d5efd6a25b2aa9f13409",
-    "size": 3012052
+    "file": "game.racer.a694dec2289a.tar.gz",
+    "sha256": "a694dec2289a60cedfa478953972e7b4adf72d15ad5b84dbe4450372ca367cb1",
+    "size": 3015920
    },
    "handheld_files": [
     "racer.racer.57e514645c2b"
@@ -35,9 +35,9 @@
    "logs": "race-logs",
    "round_end": "host: race \\d+ over",
    "package": {
-    "file": "game.racer2.a16a4242eff5.tar.gz",
-    "sha256": "a16a4242eff5c9c2f45a84819dde5f5d941a80e299ee24ed26dcd3588c557e08",
-    "size": 3409080
+    "file": "game.racer2.63bef75a5d6c.tar.gz",
+    "sha256": "63bef75a5d6cc9cd1a6065ca66c25fca0285ef4cadebad324a3557ae3fdf8a61",
+    "size": 3410565
    },
    "handheld_files": [
     "racer2.racer2.fb210a57438f"
@@ -56,9 +56,9 @@
    "logs": "match-logs",
    "round_end": "host: full time",
    "package": {
-    "file": "game.football.ef454ca28ff6.tar.gz",
-    "sha256": "ef454ca28ff68f5ccb805882b5e00a6f803aceaf0c8e343b37f5bd29d7424544",
-    "size": 2826361
+    "file": "game.football.9469ba048d19.tar.gz",
+    "sha256": "9469ba048d19be0a8c251c27fb8cd1b6923f6a5611639abfbe9f85cc8a755e1d",
+    "size": 2829793
    },
    "handheld_files": [
     "football.football.972acf24f583"
@@ -77,12 +77,12 @@
    "logs": "round-logs",
    "round_end": "host: results in",
    "package": {
-    "file": "game.skate.7c0320488cd1.tar.gz",
-    "sha256": "7c0320488cd12c3f2a408bc6d2e707a2ac2d36c2416352796e55a7c3ee788647",
-    "size": 2898862
+    "file": "game.skate.7c12042c61d9.tar.gz",
+    "sha256": "7c12042c61d92df63837500aca6c8856be7402b3e28121c13e84dbe2f8a1b30f",
+    "size": 3050787
    },
    "handheld_files": [
-    "skate.skate.ee3a63ef19c5"
+    "skate.skate.e0a6071cfde5"
    ]
   },
   {
@@ -98,9 +98,9 @@
    "logs": "round-logs",
    "round_end": "host: results in",
    "package": {
-    "file": "game.archery.30dc10969a93.tar.gz",
-    "sha256": "30dc10969a936d4ab39da7c196cf7cf20a4cce5f1652e347a775e88b6d0f8a21",
-    "size": 2907439
+    "file": "game.archery.315ec3a8304d.tar.gz",
+    "sha256": "315ec3a8304dce975bc0e8910770c8b7c3b4db795c21e60ebcf5d37bbcc0826b",
+    "size": 2911830
    },
    "handheld_files": [
     "archery.archery.931960a63fd7"
@@ -119,9 +119,9 @@
    "logs": "city-logs",
    "round_end": "host: city calm",
    "package": {
-    "file": "game.city.75a6aa8f3fe9.tar.gz",
-    "sha256": "75a6aa8f3fe9fbdf2026f469558116c3fd899959fb40383723c3cb4a6017967a",
-    "size": 3046284
+    "file": "game.city.65b8f21f1b16.tar.gz",
+    "sha256": "65b8f21f1b16e27b6ba9f255a01a2e897dce59438e8ab693d03f787ca0e9ccf8",
+    "size": 3050970
    },
    "handheld_files": [
     "city.city.4625bec7773e"
@@ -140,9 +140,9 @@
    "logs": "round-logs",
    "round_end": "host: results in",
    "package": {
-    "file": "game.climbers.5410f27d01d0.tar.gz",
-    "sha256": "5410f27d01d02852fc5d9da640dfce8e06c93d01017971679b9ff9adb1e14576",
-    "size": 2951036
+    "file": "game.climbers.019784718b3a.tar.gz",
+    "sha256": "019784718b3a6d272973b4cdcc599f3839633f597d226e82ea85e168f8c4f5ac",
+    "size": 2953752
    },
    "handheld_files": [
     "climbers.climbers.be2edb3a6445"
@@ -161,9 +161,9 @@
    "logs": "round-logs",
    "round_end": "host: results in",
    "package": {
-    "file": "game.spies.3852ccd523ea.tar.gz",
-    "sha256": "3852ccd523eaeb23bba8348114d299c3db938578d13a2976e864c3033e74f523",
-    "size": 2946626
+    "file": "game.spies.fa7d5836d58b.tar.gz",
+    "sha256": "fa7d5836d58b7483c2224af4e1b04041d2a43dfdabf2acf46491183905a4098c",
+    "size": 2885242
    },
    "handheld_files": [
     "spies.spies.e48f2073b96d"
@@ -171,15 +171,15 @@
   }
  ],
  "hub": {
-  "file": "hub.core.a3a7aa2d363a.tar.gz",
-  "sha256": "a3a7aa2d363a512ca913a4a068f134e963e5e495fecdff487f3fa09c7e26a4ba",
-  "size": 64939
+  "file": "hub.core.256a39ec1cb6.tar.gz",
+  "sha256": "256a39ec1cb654cd5e579fb511b47f017674a897ca45b9574d33e69651add25a",
+  "size": 64938
  },
  "announcer": {
   "file": "announcer.voice.c811b66f138a.tar.gz",
   "sha256": "c811b66f138a888daff96f128235ba3ea0c441f4ebd222775a097ee85b2141ff",
   "size": 1291159
  },
- "version": "20261117.001917",
- "published": "2026-11-17 00:19 UTC"
+ "version": "20261117.004334",
+ "published": "2026-11-17 00:43 UTC"
 }
