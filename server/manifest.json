@@ -176,10 +176,10 @@
   "size": 64680
  },
  "announcer": {
-  "file": "announcer.voice.c811b66f138a.tar.gz",
-  "sha256": "c811b66f138a888daff96f128235ba3ea0c441f4ebd222775a097ee85b2141ff",
-  "size": 1291159
+  "file": "announcer.voice.2c7074376e1c.tar.gz",
+  "sha256": "2c7074376e1cb9a3331324ee83972c197d62b7c25a464af7c5a6fde711fee216",
+  "size": 1515907
  },
- "version": "20261117.092809",
- "published": "2026-11-17 09:28 UTC"
+ "version": "20261117.104944",
+ "published": "2026-11-17 10:49 UTC"
 }
