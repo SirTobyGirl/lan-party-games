@@ -14,12 +14,12 @@
    "logs": "race-logs",
    "round_end": "host: race \\d+ over",
    "package": {
-    "file": "game.racer2.7f8e6437fe5b.tar.gz",
-    "sha256": "7f8e6437fe5b7d7c411d3b533a46c136d4789098655c4e397ed27af775812cd5",
-    "size": 3657932
+    "file": "game.racer2.b22683397c6c.tar.gz",
+    "sha256": "b22683397c6cefc066fa20f45c675e5989264e5ffd01c765df53f81e69509459",
+    "size": 4015448
    },
    "handheld_files": [
-    "racer2.racer2.60955b157310"
+    "racer2.racer2.9980e04b08be"
    ]
   },
   {
@@ -35,12 +35,12 @@
    "logs": "match-logs",
    "round_end": "host: full time",
    "package": {
-    "file": "game.football.af7a39800635.tar.gz",
-    "sha256": "af7a39800635c8b880f1e25fcbe5cabedc4d464b6987fb68af4425b4ddd0cbeb",
-    "size": 2836453
+    "file": "game.football.3b3d6afd79bd.tar.gz",
+    "sha256": "3b3d6afd79bd4ca91b82cc04f005e70349f9bb4ece28f0e651f7d04aedca54bb",
+    "size": 2941353
    },
    "handheld_files": [
-    "football.football.972acf24f583"
+    "football.football.5c5a413a9366"
    ]
   },
   {
@@ -56,12 +56,12 @@
    "logs": "round-logs",
    "round_end": "host: results in",
    "package": {
-    "file": "game.skate.8f5818696da2.tar.gz",
-    "sha256": "8f5818696da256d0a4588cbc70c49c59ea398c3054ecef2f03c9634a69e0ca9c",
-    "size": 3118690
+    "file": "game.skate.e77718a7ab97.tar.gz",
+    "sha256": "e77718a7ab97ed24e49f5b95a4da5410c55e2a9e23ba35a0af97f80e3ad6b93f",
+    "size": 3217971
    },
    "handheld_files": [
-    "skate.skate.3d3cc93ef9ed"
+    "skate.skate.994f902f5e77"
    ]
   },
   {
@@ -77,12 +77,12 @@
    "logs": "round-logs",
    "round_end": "host: results in",
    "package": {
-    "file": "game.archery.dc8c6c03072c.tar.gz",
-    "sha256": "dc8c6c03072c2b0f4c57b5f04f594f7fe5227c5454efdc13e59fd465585fcec7",
-    "size": 2918526
+    "file": "game.archery.265e6a8b7568.tar.gz",
+    "sha256": "265e6a8b756891cb057288dd9f73aea44ee00c452f5dcbc6f67a9a46bc19c7e1",
+    "size": 3024931
    },
    "handheld_files": [
-    "archery.archery.931960a63fd7"
+    "archery.archery.a6e81229d9a8"
    ]
   },
   {
@@ -98,12 +98,12 @@
    "logs": "city-logs",
    "round_end": "host: city calm",
    "package": {
-    "file": "game.city.422ff4a59693.tar.gz",
-    "sha256": "422ff4a596939422f6cac787b1f8ba964af5b5cac784f4c90b179e582775595d",
-    "size": 3298368
+    "file": "game.city.452821ca1cc7.tar.gz",
+    "sha256": "452821ca1cc7984872b1ae556352dafd27332365e7db969216e5d42f0981fbef",
+    "size": 3390594
    },
    "handheld_files": [
-    "city.city.5f5906594391"
+    "city.city.42049f8ebed9"
    ]
   },
   {
@@ -119,12 +119,12 @@
    "logs": "round-logs",
    "round_end": "host: results in",
    "package": {
-    "file": "game.climbers.9e302d61ecf7.tar.gz",
-    "sha256": "9e302d61ecf7d849a0fa8d431a8b131f49f37d51bd48c0bc10c3e4203e603982",
-    "size": 2959127
+    "file": "game.climbers.f805d6383567.tar.gz",
+    "sha256": "f805d63835671c4fd24ab33a2a84d8f926b14c0008bcbccf6f5ca0f28c31ccf9",
+    "size": 3060933
    },
    "handheld_files": [
-    "climbers.climbers.be2edb3a6445"
+    "climbers.climbers.1035d59eed6f"
    ]
   },
   {
@@ -140,12 +140,12 @@
    "logs": "round-logs",
    "round_end": "host: results in",
    "package": {
-    "file": "game.spies.4ca5c7504ca9.tar.gz",
-    "sha256": "4ca5c7504ca9040c623db5eb5c70516e48631c488caaf1c4a39bb5894fb4a893",
-    "size": 2826768
+    "file": "game.spies.4e2000db597f.tar.gz",
+    "sha256": "4e2000db597f370bb61508dbe1518175e2800dd5cc27c2eba5f346e4aadd980f",
+    "size": 2935114
    },
    "handheld_files": [
-    "spies.spies.e48f2073b96d"
+    "spies.spies.4b68642e2d2c"
    ]
   },
   {
@@ -161,12 +161,12 @@
    "logs": "voyage-logs",
    "round_end": "host: voyage calm",
    "package": {
-    "file": "game.pirates.8a54329c0d7e.tar.gz",
-    "sha256": "8a54329c0d7efb171e86a559f603a53f8c16c40a3e0154d3182aba577f46cf50",
-    "size": 3131081
+    "file": "game.pirates.ee6529209156.tar.gz",
+    "sha256": "ee6529209156f3bfa1af8cbbd552565d2e4f34fbcebf30be4ce0f53e70249f28",
+    "size": 3220219
    },
    "handheld_files": [
-    "pirates.pirates.0e8da1426a2a"
+    "pirates.pirates.e1d3bf99fac6"
    ]
   },
   {
@@ -197,10 +197,10 @@
   "size": 64680
  },
  "announcer": {
-  "file": "announcer.voice.eaf85c09ba3f.tar.gz",
-  "sha256": "eaf85c09ba3f3c0dfc38977b4ec3b1cb588e8bcbaea7784823f92ef7ba9b4fe7",
-  "size": 1817627
+  "file": "announcer.voice.201a2127582f.tar.gz",
+  "sha256": "201a2127582fb43ea46db94d03842c26bffbc7781db6310a71bf97ea9004ce45",
+  "size": 1872452
  },
- "version": "20261119.132334",
- "published": "2026-11-19 13:23 UTC"
+ "version": "20261119.150332",
+ "published": "2026-11-19 15:03 UTC"
 }
