@@ -2,27 +2,6 @@
  "lanparty_updates": 1,
  "games": [
   {
-   "id": "racer",
-   "title": "LAN Party Racer",
-   "short": "Racer",
-   "blurb": "3-lap arcade races. Drop in from a free grid slot.",
-   "binary": "racer",
-   "web": "web",
-   "handheld": "handheld",
-   "udp": 47800,
-   "web_port": 8080,
-   "logs": "race-logs",
-   "round_end": "host: race \\d+ over",
-   "package": {
-    "file": "game.racer.a694dec2289a.tar.gz",
-    "sha256": "a694dec2289a60cedfa478953972e7b4adf72d15ad5b84dbe4450372ca367cb1",
-    "size": 3015920
-   },
-   "handheld_files": [
-    "racer.racer.57e514645c2b"
-   ]
-  },
-  {
    "id": "racer2",
    "title": "LAN Party Racer v2.1",
    "short": "Racer v2.1",
@@ -35,9 +14,9 @@
    "logs": "race-logs",
    "round_end": "host: race \\d+ over",
    "package": {
-    "file": "game.racer2.d7cb1287f490.tar.gz",
-    "sha256": "d7cb1287f49090a0a9b3629f084a3ce9037d10b5c3022b954ac976a7700bdead",
-    "size": 3634835
+    "file": "game.racer2.6b1822df1b76.tar.gz",
+    "sha256": "6b1822df1b767f2b6e4102778e826bcb2d0b02252863d04782bd196d639b6c8e",
+    "size": 3634887
    },
    "handheld_files": [
     "racer2.racer2.bba8512088d3"
@@ -56,9 +35,9 @@
    "logs": "match-logs",
    "round_end": "host: full time",
    "package": {
-    "file": "game.football.9469ba048d19.tar.gz",
-    "sha256": "9469ba048d19be0a8c251c27fb8cd1b6923f6a5611639abfbe9f85cc8a755e1d",
-    "size": 2829793
+    "file": "game.football.af7a39800635.tar.gz",
+    "sha256": "af7a39800635c8b880f1e25fcbe5cabedc4d464b6987fb68af4425b4ddd0cbeb",
+    "size": 2836453
    },
    "handheld_files": [
     "football.football.972acf24f583"
@@ -77,9 +56,9 @@
    "logs": "round-logs",
    "round_end": "host: results in",
    "package": {
-    "file": "game.skate.d07f07a3a513.tar.gz",
-    "sha256": "d07f07a3a51395e32a6040b2d6ff044cf61e3aed2a8bc0913080bfc115eed410",
-    "size": 3112102
+    "file": "game.skate.8f5818696da2.tar.gz",
+    "sha256": "8f5818696da256d0a4588cbc70c49c59ea398c3054ecef2f03c9634a69e0ca9c",
+    "size": 3118690
    },
    "handheld_files": [
     "skate.skate.3d3cc93ef9ed"
@@ -98,9 +77,9 @@
    "logs": "round-logs",
    "round_end": "host: results in",
    "package": {
-    "file": "game.archery.315ec3a8304d.tar.gz",
-    "sha256": "315ec3a8304dce975bc0e8910770c8b7c3b4db795c21e60ebcf5d37bbcc0826b",
-    "size": 2911830
+    "file": "game.archery.dc8c6c03072c.tar.gz",
+    "sha256": "dc8c6c03072c2b0f4c57b5f04f594f7fe5227c5454efdc13e59fd465585fcec7",
+    "size": 2918526
    },
    "handheld_files": [
     "archery.archery.931960a63fd7"
@@ -119,9 +98,9 @@
    "logs": "city-logs",
    "round_end": "host: city calm",
    "package": {
-    "file": "game.city.cdd64a8b94bc.tar.gz",
-    "sha256": "cdd64a8b94bcd0d18c24228b7d0a07a72b19f97b9058c2555f48a08e120bb661",
-    "size": 3289226
+    "file": "game.city.422ff4a59693.tar.gz",
+    "sha256": "422ff4a596939422f6cac787b1f8ba964af5b5cac784f4c90b179e582775595d",
+    "size": 3298368
    },
    "handheld_files": [
     "city.city.5f5906594391"
@@ -140,9 +119,9 @@
    "logs": "round-logs",
    "round_end": "host: results in",
    "package": {
-    "file": "game.climbers.019784718b3a.tar.gz",
-    "sha256": "019784718b3a6d272973b4cdcc599f3839633f597d226e82ea85e168f8c4f5ac",
-    "size": 2953752
+    "file": "game.climbers.9e302d61ecf7.tar.gz",
+    "sha256": "9e302d61ecf7d849a0fa8d431a8b131f49f37d51bd48c0bc10c3e4203e603982",
+    "size": 2959127
    },
    "handheld_files": [
     "climbers.climbers.be2edb3a6445"
@@ -161,9 +140,9 @@
    "logs": "round-logs",
    "round_end": "host: results in",
    "package": {
-    "file": "game.spies.fa7d5836d58b.tar.gz",
-    "sha256": "fa7d5836d58b7483c2224af4e1b04041d2a43dfdabf2acf46491183905a4098c",
-    "size": 2885242
+    "file": "game.spies.4ca5c7504ca9.tar.gz",
+    "sha256": "4ca5c7504ca9040c623db5eb5c70516e48631c488caaf1c4a39bb5894fb4a893",
+    "size": 2826768
    },
    "handheld_files": [
     "spies.spies.e48f2073b96d"
@@ -182,9 +161,9 @@
    "logs": "voyage-logs",
    "round_end": "host: voyage calm",
    "package": {
-    "file": "game.pirates.946b9e7ac6da.tar.gz",
-    "sha256": "946b9e7ac6dae99dc9c38555a4e584eba895c888060fe7dc77aab6afe57590b3",
-    "size": 3128032
+    "file": "game.pirates.8a54329c0d7e.tar.gz",
+    "sha256": "8a54329c0d7efb171e86a559f603a53f8c16c40a3e0154d3182aba577f46cf50",
+    "size": 3131081
    },
    "handheld_files": [
     "pirates.pirates.0e8da1426a2a"
@@ -203,9 +182,9 @@
    "logs": "round-logs",
    "round_end": "host: results in",
    "package": {
-    "file": "game.firewords.c4b5780e67bd.tar.gz",
-    "sha256": "c4b5780e67bd8607c93653f93707c4dacbcf45d80e93ef600724e868725a72f4",
-    "size": 2989919
+    "file": "game.firewords.a461aa8eb12d.tar.gz",
+    "sha256": "a461aa8eb12d123b028639410bb5c446a55ccabdf9105896fb419f500b1ee4f8",
+    "size": 2992613
    },
    "handheld_files": [
     "firewords.firewords.376f37e8c473"
@@ -213,15 +192,15 @@
   }
  ],
  "hub": {
-  "file": "hub.core.75a21e367523.tar.gz",
-  "sha256": "75a21e36752399ab3e656e163f05e6c3f7bb79c07e86acb2fe95510c9a7ba971",
-  "size": 64682
+  "file": "hub.core.a1b204389500.tar.gz",
+  "sha256": "a1b204389500d12c672d7ad4ebadc0517654def14080b585f995bc435824e804",
+  "size": 64680
  },
  "announcer": {
   "file": "announcer.voice.eaf85c09ba3f.tar.gz",
   "sha256": "eaf85c09ba3f3c0dfc38977b4ec3b1cb588e8bcbaea7784823f92ef7ba9b4fe7",
   "size": 1817627
  },
- "version": "20261119.115954",
- "published": "2026-11-19 11:59 UTC"
+ "version": "20261119.122641",
+ "published": "2026-11-19 12:26 UTC"
 }
