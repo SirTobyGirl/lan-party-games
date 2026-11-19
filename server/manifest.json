@@ -35,9 +35,9 @@
    "logs": "race-logs",
    "round_end": "host: race \\d+ over",
    "package": {
-    "file": "game.racer2.94292fdeaa0a.tar.gz",
-    "sha256": "94292fdeaa0a73eda20449c0cf245c7b860d5ff1623e2f36ad614ec919fe114f",
-    "size": 3631358
+    "file": "game.racer2.4382b453aef1.tar.gz",
+    "sha256": "4382b453aef10e4c8354feb885958e84c89bd239f3dd38ca196d607835752198",
+    "size": 3634171
    },
    "handheld_files": [
     "racer2.racer2.bba8512088d3"
@@ -222,6 +222,6 @@
   "sha256": "eaf85c09ba3f3c0dfc38977b4ec3b1cb588e8bcbaea7784823f92ef7ba9b4fe7",
   "size": 1817627
  },
- "version": "20261119.034652",
- "published": "2026-11-19 03:46 UTC"
+ "version": "20261119.100649",
+ "published": "2026-11-19 10:06 UTC"
 }
