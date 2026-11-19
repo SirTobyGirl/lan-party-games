@@ -173,7 +173,7 @@
    "id": "pirates",
    "title": "Pirates Freeroam",
    "short": "Pirates",
-   "blurb": "Free roam: sail a pirate ship round six islands together. Go ashore for treasure, man the cannons, climb to the crow's nest.",
+   "blurb": "Free roam: sail a pirate ship round seven islands together. Follow your map ashore and dig up treasure (and some very silly things), man the cannons, climb to the crow's nest, and party at Tortuga.",
    "binary": "pirates",
    "web": "web",
    "handheld": "handheld",
@@ -182,12 +182,33 @@
    "logs": "voyage-logs",
    "round_end": "host: voyage calm",
    "package": {
-    "file": "game.pirates.5d708a2f9fa9.tar.gz",
-    "sha256": "5d708a2f9fa912115b57168cba53e73a802b4138460db074789f81c881a461e2",
-    "size": 3014844
+    "file": "game.pirates.946b9e7ac6da.tar.gz",
+    "sha256": "946b9e7ac6dae99dc9c38555a4e584eba895c888060fe7dc77aab6afe57590b3",
+    "size": 3128032
    },
    "handheld_files": [
-    "pirates.pirates.38b2cd60f332"
+    "pirates.pirates.0e8da1426a2a"
+   ]
+  },
+  {
+   "id": "firewords",
+   "title": "LAN Party Firewords",
+   "short": "Firewords",
+   "blurb": "Guess your secret word with fireworks. Every letter is a rocket: green, gold or a dud. Most words in 3 minutes wins.",
+   "binary": "firewords",
+   "web": "web",
+   "handheld": "handheld",
+   "udp": 47895,
+   "web_port": 8180,
+   "logs": "round-logs",
+   "round_end": "host: results in",
+   "package": {
+    "file": "game.firewords.c4b5780e67bd.tar.gz",
+    "sha256": "c4b5780e67bd8607c93653f93707c4dacbcf45d80e93ef600724e868725a72f4",
+    "size": 2989919
+   },
+   "handheld_files": [
+    "firewords.firewords.376f37e8c473"
    ]
   }
  ],
@@ -197,10 +218,10 @@
   "size": 64680
  },
  "announcer": {
-  "file": "announcer.voice.ae73c3a8af16.tar.gz",
-  "sha256": "ae73c3a8af1667560fa50d5ee8eb19b2e83bdf574231addb9b90ada33fdaa665",
-  "size": 1599732
+  "file": "announcer.voice.eaf85c09ba3f.tar.gz",
+  "sha256": "eaf85c09ba3f3c0dfc38977b4ec3b1cb588e8bcbaea7784823f92ef7ba9b4fe7",
+  "size": 1817627
  },
- "version": "20261117.131828",
- "published": "2026-11-17 13:18 UTC"
+ "version": "20261119.034652",
+ "published": "2026-11-19 03:46 UTC"
 }
