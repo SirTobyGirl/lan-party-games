@@ -161,12 +161,12 @@
    "logs": "voyage-logs",
    "round_end": "host: voyage calm",
    "package": {
-    "file": "game.pirates.c9b23183ed6d.tar.gz",
-    "sha256": "c9b23183ed6dbd7fb5b306d2ef69853d98f9d4c49f5e2161ae5e483d624f51e1",
-    "size": 3337746
+    "file": "game.pirates.82216dcb8e07.tar.gz",
+    "sha256": "82216dcb8e079f62c7e28e4bfa8e9324920f091bd61de36dd06500ec971c5152",
+    "size": 3466024
    },
    "handheld_files": [
-    "pirates.pirates.a61d83513a81"
+    "pirates.pirates.898d13920150"
    ]
   },
   {
@@ -197,10 +197,10 @@
   "size": 64680
  },
  "announcer": {
-  "file": "announcer.voice.85f00d803fa8.tar.gz",
-  "sha256": "85f00d803fa8c862c9e6b433b49e8541f67a0477aa594e3507aa909341a11886",
-  "size": 1891669
+  "file": "announcer.voice.86bbd1c9f5d6.tar.gz",
+  "sha256": "86bbd1c9f5d69baf6ca52a116548de35eaf4e962484ec4573580c9b31f4b4589",
+  "size": 1966936
  },
- "version": "20261123.213926",
- "published": "2026-11-23 21:39 UTC"
+ "version": "20261123.230457",
+ "published": "2026-11-23 23:04 UTC"
 }
