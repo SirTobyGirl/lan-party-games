@@ -161,12 +161,12 @@
    "logs": "voyage-logs",
    "round_end": "host: voyage calm",
    "package": {
-    "file": "game.pirates.82216dcb8e07.tar.gz",
-    "sha256": "82216dcb8e079f62c7e28e4bfa8e9324920f091bd61de36dd06500ec971c5152",
-    "size": 3466024
+    "file": "game.pirates.0ee59d0efe10.tar.gz",
+    "sha256": "0ee59d0efe1037d2a33c49e8b54057d11fb0a7c14d85be9f3fe757b05a27597f",
+    "size": 3654330
    },
    "handheld_files": [
-    "pirates.pirates.898d13920150"
+    "pirates.pirates.49f776268021"
    ]
   },
   {
@@ -201,6 +201,6 @@
   "sha256": "86bbd1c9f5d69baf6ca52a116548de35eaf4e962484ec4573580c9b31f4b4589",
   "size": 1966936
  },
- "version": "20261123.230457",
- "published": "2026-11-23 23:04 UTC"
+ "version": "20261124.000706",
+ "published": "2026-11-24 00:07 UTC"
 }
