@@ -14,12 +14,12 @@
    "logs": "race-logs",
    "round_end": "host: race \\d+ over",
    "package": {
-    "file": "game.racer2.82c058324044.tar.gz",
-    "sha256": "82c058324044c689b7d47a7976613215ed8991733739e64e9449c259468219e2",
-    "size": 3764701
+    "file": "game.racer2.a6c574d26e59.tar.gz",
+    "sha256": "a6c574d26e599d04b04ee2fe1b3ae6f7b8eb68e8e4ac1be97d1eb0ae75c2b555",
+    "size": 4040133
    },
    "handheld_files": [
-    "racer2.racer2.d0af1ba0a8b9"
+    "racer2.racer2.89c15e26a567"
    ]
   },
   {
@@ -35,12 +35,12 @@
    "logs": "match-logs",
    "round_end": "host: full time",
    "package": {
-    "file": "game.football.3b3d6afd79bd.tar.gz",
-    "sha256": "3b3d6afd79bd4ca91b82cc04f005e70349f9bb4ece28f0e651f7d04aedca54bb",
-    "size": 2941353
+    "file": "game.football.0df0d2ba8fbd.tar.gz",
+    "sha256": "0df0d2ba8fbd3af31adba9c27721dd12fa3c54b4635e9bfba4c4696b1049e50d",
+    "size": 2960760
    },
    "handheld_files": [
-    "football.football.5c5a413a9366"
+    "football.football.a24b17a89909"
    ]
   },
   {
@@ -56,12 +56,12 @@
    "logs": "round-logs",
    "round_end": "host: results in",
    "package": {
-    "file": "game.skate.e77718a7ab97.tar.gz",
-    "sha256": "e77718a7ab97ed24e49f5b95a4da5410c55e2a9e23ba35a0af97f80e3ad6b93f",
-    "size": 3217971
+    "file": "game.skate.3b8389051fd4.tar.gz",
+    "sha256": "3b8389051fd4865645d51809c9938e762e85ef146155e23022c51a7aafdef03a",
+    "size": 3232542
    },
    "handheld_files": [
-    "skate.skate.994f902f5e77"
+    "skate.skate.4fe230708f61"
    ]
   },
   {
@@ -77,12 +77,12 @@
    "logs": "round-logs",
    "round_end": "host: results in",
    "package": {
-    "file": "game.archery.265e6a8b7568.tar.gz",
-    "sha256": "265e6a8b756891cb057288dd9f73aea44ee00c452f5dcbc6f67a9a46bc19c7e1",
-    "size": 3024931
+    "file": "game.archery.0de692634f08.tar.gz",
+    "sha256": "0de692634f08727cb019179be7c49ad21d0d4f0b2432edaea8e345adf3971334",
+    "size": 3039118
    },
    "handheld_files": [
-    "archery.archery.a6e81229d9a8"
+    "archery.archery.7bb2b0b157e9"
    ]
   },
   {
@@ -98,12 +98,12 @@
    "logs": "city-logs",
    "round_end": "host: city calm",
    "package": {
-    "file": "game.city.452821ca1cc7.tar.gz",
-    "sha256": "452821ca1cc7984872b1ae556352dafd27332365e7db969216e5d42f0981fbef",
-    "size": 3390594
+    "file": "game.city.4f5f8646e3e1.tar.gz",
+    "sha256": "4f5f8646e3e150f90ad04d961d8883321f669e04856ea1090ba3cb7ef40f2489",
+    "size": 3414138
    },
    "handheld_files": [
-    "city.city.42049f8ebed9"
+    "city.city.9234b1b16fdc"
    ]
   },
   {
@@ -119,12 +119,12 @@
    "logs": "round-logs",
    "round_end": "host: results in",
    "package": {
-    "file": "game.climbers.f805d6383567.tar.gz",
-    "sha256": "f805d63835671c4fd24ab33a2a84d8f926b14c0008bcbccf6f5ca0f28c31ccf9",
-    "size": 3060933
+    "file": "game.climbers.3c35ed6a410a.tar.gz",
+    "sha256": "3c35ed6a410a1d73f8c12798bad70bfc31a8d1478a60c77e0d220d056e2962ef",
+    "size": 3081141
    },
    "handheld_files": [
-    "climbers.climbers.1035d59eed6f"
+    "climbers.climbers.b0ba067550ad"
    ]
   },
   {
@@ -161,12 +161,12 @@
    "logs": "voyage-logs",
    "round_end": "host: voyage calm",
    "package": {
-    "file": "game.pirates.256e6de10b38.tar.gz",
-    "sha256": "256e6de10b3822830df0d42412c27ef697bbf2ac7827b8936ec12839aecdbf53",
-    "size": 3962853
+    "file": "game.pirates.d64236cc4bb9.tar.gz",
+    "sha256": "d64236cc4bb9cc51c1e0c079c527c306ee9ba55b029d49e14deedf14de07cd6b",
+    "size": 3990515
    },
    "handheld_files": [
-    "pirates.pirates.4cdd22d88b43"
+    "pirates.pirates.af664321f647"
    ]
   },
   {
@@ -182,12 +182,12 @@
    "logs": "round-logs",
    "round_end": "host: results in",
    "package": {
-    "file": "game.firewords.16b5fa0633ae.tar.gz",
-    "sha256": "16b5fa0633ae909aadb1f1d98909b6ac5ad48832c039dd5c71b0104c9f2d0fa7",
-    "size": 3083901
+    "file": "game.firewords.02606dd50778.tar.gz",
+    "sha256": "02606dd507781bc031713bc77ac509676359ea0d0e0d1b6e1a5d71c6f0a4b87e",
+    "size": 3106541
    },
    "handheld_files": [
-    "firewords.firewords.0b29bc12008b"
+    "firewords.firewords.afe60b2d6dc8"
    ]
   }
  ],
@@ -201,6 +201,6 @@
   "sha256": "76e60f8077d53cef886f23f8bcbd8fd235639706b0ef08bdbc277b4d295a1f00",
   "size": 2232656
  },
- "version": "20261124.032851",
- "published": "2026-11-24 03:28 UTC"
+ "version": "20261124.130329",
+ "published": "2026-11-24 13:03 UTC"
 }
