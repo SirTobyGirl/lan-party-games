@@ -194,7 +194,7 @@
    "id": "chameleon",
    "title": "LAN Party Chameleon",
    "short": "Chameleon",
-   "blurb": "Paint-yourself hide and seek. Stop, pick a shade and blend into the yard before the seekers find you. Younger players get auto-paint. Drop in any time.",
+   "blurb": "Paint-yourself hide and seek in chameleon costumes. Strike a pose by a tree, fence or lamp post and paint yourself to match before the seekers find you. Younger players get auto-paint. Drop in any time.",
    "binary": "chameleon",
    "web": "web",
    "handheld": "handheld",
@@ -203,12 +203,12 @@
    "logs": "round-logs",
    "round_end": "host: results in",
    "package": {
-    "file": "game.chameleon.1df15592ee94.tar.gz",
-    "sha256": "1df15592ee941e312c2c681fa842b886807347f126fca48790cce624d2825625",
-    "size": 2991667
+    "file": "game.chameleon.7035814614c1.tar.gz",
+    "sha256": "7035814614c15c9f0e19e79284f21826cb175ebaac8ba0058cbed872c4fd0eb8",
+    "size": 3087509
    },
    "handheld_files": [
-    "chameleon.chameleon.988f274d643f"
+    "chameleon.chameleon.a792b3abf950"
    ]
   }
  ],
@@ -222,6 +222,6 @@
   "sha256": "2ef1471e23ff3b77afe15e1725b5782053e4eeb8934574e547b8a9e711fb2f20",
   "size": 2445941
  },
- "version": "20261124.195013",
- "published": "2026-11-24 19:50 UTC"
+ "version": "20261124.220616",
+ "published": "2026-11-24 22:06 UTC"
 }
