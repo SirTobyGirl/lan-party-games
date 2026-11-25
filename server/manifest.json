@@ -14,12 +14,12 @@
    "logs": "race-logs",
    "round_end": "host: race \\d+ over",
    "package": {
-    "file": "game.racer2.a6c574d26e59.tar.gz",
-    "sha256": "a6c574d26e599d04b04ee2fe1b3ae6f7b8eb68e8e4ac1be97d1eb0ae75c2b555",
-    "size": 4040133
+    "file": "game.racer2.78e9c0426eaf.tar.gz",
+    "sha256": "78e9c0426eaf3094924e19e3a3c0f3126ec09b6fe6444e4e0c5b0005a34b5ebb",
+    "size": 4036400
    },
    "handheld_files": [
-    "racer2.racer2.89c15e26a567"
+    "racer2.racer2.11d79d569e24"
    ]
   },
   {
@@ -213,15 +213,15 @@
   }
  ],
  "hub": {
-  "file": "hub.core.a1b204389500.tar.gz",
-  "sha256": "a1b204389500d12c672d7ad4ebadc0517654def14080b585f995bc435824e804",
-  "size": 64680
+  "file": "hub.core.83d88c09facb.tar.gz",
+  "sha256": "83d88c09facb3bf4e7e92ad06b28ade06232527bda97d46e39e1b907451508c0",
+  "size": 67713
  },
  "announcer": {
   "file": "announcer.voice.8940f00067d5.tar.gz",
   "sha256": "8940f00067d5ab896413a977f1792fd7fc5371096cba908796c110de93b6e9df",
   "size": 2451608
  },
- "version": "20261125.011919",
- "published": "2026-11-25 01:19 UTC"
+ "version": "20261125.123218",
+ "published": "2026-11-25 12:32 UTC"
 }
