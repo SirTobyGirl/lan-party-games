@@ -210,6 +210,27 @@
    "handheld_files": [
     "chameleon.chameleon.b20d493e763f"
    ]
+  },
+  {
+   "id": "unityfactory",
+   "title": "Unity Factory",
+   "short": "Factory",
+   "blurb": "Build one factory together on a blocky planet, then clean up the smog it made: clean power, scrubbers, forests and a data center of 100 server racks. The planet carries on between visits. Younger players get an AI buddy and faster builds. Drop in any time.",
+   "binary": "unityfactory",
+   "web": "web",
+   "handheld": "handheld",
+   "udp": 47898,
+   "web_port": 8200,
+   "logs": "factory-logs",
+   "round_end": "host: (factory calm|results in)",
+   "package": {
+    "file": "game.unityfactory.298244453cba.tar.gz",
+    "sha256": "298244453cbadbca79891d5c33deaa22f1f26f816320a3227f979b873943710a",
+    "size": 3158846
+   },
+   "handheld_files": [
+    "unityfactory.unityfactory.0ef78c22101d"
+   ]
   }
  ],
  "hub": {
@@ -218,10 +239,10 @@
   "size": 72192
  },
  "announcer": {
-  "file": "announcer.voice.e089c61c4537.tar.gz",
-  "sha256": "e089c61c453724e9a807f2e7f18d104940c6241c9ef0ff92aa17bc7cfae2202c",
-  "size": 2653633
+  "file": "announcer.voice.d770d3ba8f36.tar.gz",
+  "sha256": "d770d3ba8f36934282b0dbe396f721b87f06e265dde314bb0ae132594c8f5267",
+  "size": 2632130
  },
- "version": "20261125.215828",
- "published": "2026-11-25 21:58 UTC"
+ "version": "20261125.221322",
+ "published": "2026-11-25 22:13 UTC"
 }
