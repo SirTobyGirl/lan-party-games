@@ -1,0 +1,227 @@
+{
+ "lanparty_updates": 1,
+ "games": [
+  {
+   "id": "racer2",
+   "title": "LAN Party Racer v2.1",
+   "short": "Racer v2.1",
+   "blurb": "Ten-car PS1-style races with jumps, on ten circuits in turn: Hackworth Park in Shildon, a chocolate factory, a figure-8 with a crossroads, an ice palace, a monster door vault, a coral reef and a short speedway oval raced for three times the laps. AI rivals with their own driving styles.",
+   "binary": "racer2",
+   "web": "web",
+   "handheld": "handheld",
+   "udp": 47880,
+   "web_port": 8160,
+   "logs": "race-logs",
+   "round_end": "host: race \\d+ over",
+   "package": {
+    "file": "game.racer2.78e9c0426eaf.tar.gz",
+    "sha256": "78e9c0426eaf3094924e19e3a3c0f3126ec09b6fe6444e4e0c5b0005a34b5ebb",
+    "size": 4036400
+   },
+   "handheld_files": [
+    "racer2.racer2.11d79d569e24"
+   ]
+  },
+  {
+   "id": "football",
+   "title": "LAN Party Football",
+   "short": "Football",
+   "blurb": "Five-a-side. Take over a footballer mid-match.",
+   "binary": "football",
+   "web": "web",
+   "handheld": "handheld",
+   "udp": 47810,
+   "web_port": 8090,
+   "logs": "match-logs",
+   "round_end": "host: full time",
+   "package": {
+    "file": "game.football.0df0d2ba8fbd.tar.gz",
+    "sha256": "0df0d2ba8fbd3af31adba9c27721dd12fa3c54b4635e9bfba4c4696b1049e50d",
+    "size": 2960760
+   },
+   "handheld_files": [
+    "football.football.a24b17a89909"
+   ]
+  },
+  {
+   "id": "skate",
+   "title": "LAN Party Skate",
+   "short": "Skate",
+   "blurb": "Two-minute rounds. Chain tricks, highest score wins.",
+   "binary": "skate",
+   "web": "web",
+   "handheld": "handheld",
+   "udp": 47820,
+   "web_port": 8100,
+   "logs": "round-logs",
+   "round_end": "host: results in",
+   "package": {
+    "file": "game.skate.3b8389051fd4.tar.gz",
+    "sha256": "3b8389051fd4865645d51809c9938e762e85ef146155e23022c51a7aafdef03a",
+    "size": 3232542
+   },
+   "handheld_files": [
+    "skate.skate.4fe230708f61"
+   ]
+  },
+  {
+   "id": "archery",
+   "title": "LAN Party Archery",
+   "short": "Archery",
+   "blurb": "Three-minute bow-and-arrow deathmatch. Drop in any time.",
+   "binary": "archery",
+   "web": "web",
+   "handheld": "handheld",
+   "udp": 47830,
+   "web_port": 8110,
+   "logs": "round-logs",
+   "round_end": "host: results in",
+   "package": {
+    "file": "game.archery.0de692634f08.tar.gz",
+    "sha256": "0de692634f08727cb019179be7c49ad21d0d4f0b2432edaea8e345adf3971334",
+    "size": 3039118
+   },
+   "handheld_files": [
+    "archery.archery.7bb2b0b157e9"
+   ]
+  },
+  {
+   "id": "city",
+   "title": "LAN Party Peaceful City",
+   "short": "City",
+   "blurb": "Sandbox town. Drive, walk and skate; rain, cheese and a police chase.",
+   "binary": "city",
+   "web": "web",
+   "handheld": "handheld",
+   "udp": 47850,
+   "web_port": 8130,
+   "logs": "city-logs",
+   "round_end": "host: city calm",
+   "package": {
+    "file": "game.city.4f5f8646e3e1.tar.gz",
+    "sha256": "4f5f8646e3e150f90ad04d961d8883321f669e04856ea1090ba3cb7ef40f2489",
+    "size": 3414138
+   },
+   "handheld_files": [
+    "city.city.9234b1b16fdc"
+   ]
+  },
+  {
+   "id": "climbers",
+   "title": "Mountain Climbers",
+   "short": "Climbers",
+   "blurb": "Race to the top of the mountain. First one to the flag wins!",
+   "binary": "climbers",
+   "web": "web",
+   "handheld": "handheld",
+   "udp": 47860,
+   "web_port": 8140,
+   "logs": "round-logs",
+   "round_end": "host: results in",
+   "package": {
+    "file": "game.climbers.3c35ed6a410a.tar.gz",
+    "sha256": "3c35ed6a410a1d73f8c12798bad70bfc31a8d1478a60c77e0d220d056e2962ef",
+    "size": 3081141
+   },
+   "handheld_files": [
+    "climbers.climbers.b0ba067550ad"
+   ]
+  },
+  {
+   "id": "spies",
+   "title": "LAN Party Spies",
+   "short": "Spies",
+   "blurb": "Can you find the spy? Blend into the crowd of 50 while a hunter takes aim.",
+   "binary": "spies",
+   "web": "web",
+   "handheld": "handheld",
+   "udp": 47870,
+   "web_port": 8150,
+   "logs": "round-logs",
+   "round_end": "host: results in",
+   "package": {
+    "file": "game.spies.4e2000db597f.tar.gz",
+    "sha256": "4e2000db597f370bb61508dbe1518175e2800dd5cc27c2eba5f346e4aadd980f",
+    "size": 2935114
+   },
+   "handheld_files": [
+    "spies.spies.4b68642e2d2c"
+   ]
+  },
+  {
+   "id": "pirates",
+   "title": "Pirates Freeroam",
+   "short": "Pirates",
+   "blurb": "Free roam: sail a pirate ship round seven islands together. Follow your map ashore and dig up treasure (and some very silly things), man the cannons, climb to the crow's nest, and party at Tortuga.",
+   "binary": "pirates",
+   "web": "web",
+   "handheld": "handheld",
+   "udp": 47890,
+   "web_port": 8170,
+   "logs": "voyage-logs",
+   "round_end": "host: voyage calm",
+   "package": {
+    "file": "game.pirates.f7080dc3a46b.tar.gz",
+    "sha256": "f7080dc3a46b000099086a9b4f488e86ca4a5397692f6d230d6f12c4e1b1c46c",
+    "size": 4153196
+   },
+   "handheld_files": [
+    "pirates.pirates.6ec1794d0d82"
+   ]
+  },
+  {
+   "id": "firewords",
+   "title": "LAN Party Firewords",
+   "short": "Firewords",
+   "blurb": "Race everyone through the same secret words with fireworks. Every letter is a rocket: green, gold or a dud. Most words in 3 minutes wins.",
+   "binary": "firewords",
+   "web": "web",
+   "handheld": "handheld",
+   "udp": 47895,
+   "web_port": 8180,
+   "logs": "round-logs",
+   "round_end": "host: results in",
+   "package": {
+    "file": "game.firewords.02606dd50778.tar.gz",
+    "sha256": "02606dd507781bc031713bc77ac509676359ea0d0e0d1b6e1a5d71c6f0a4b87e",
+    "size": 3106541
+   },
+   "handheld_files": [
+    "firewords.firewords.afe60b2d6dc8"
+   ]
+  },
+  {
+   "id": "chameleon",
+   "title": "LAN Party Chameleon",
+   "short": "Chameleon",
+   "blurb": "Paint-yourself hide and seek in chameleon costumes. Strike a pose by a tree, fence or lamp post and paint yourself to match before the seekers find you. Younger players get auto-paint. Drop in any time.",
+   "binary": "chameleon",
+   "web": "web",
+   "handheld": "handheld",
+   "udp": 47897,
+   "web_port": 8190,
+   "logs": "round-logs",
+   "round_end": "host: results in",
+   "package": {
+    "file": "game.chameleon.49ff6e4424a9.tar.gz",
+    "sha256": "49ff6e4424a912eb2741a080282b411e31110998728dc8e68b9320fbed9f00dc",
+    "size": 3125058
+   },
+   "handheld_files": [
+    "chameleon.chameleon.be1cfe35289e"
+   ]
+  }
+ ],
+ "hub": {
+  "file": "hub.core.b7c6438cd34c.tar.gz",
+  "sha256": "b7c6438cd34caaa179e70a8e8f935466915cc50cc25db5451ddaf9b9d6faa706",
+  "size": 72192
+ },
+ "announcer": {
+  "file": "announcer.voice.8940f00067d5.tar.gz",
+  "sha256": "8940f00067d5ab896413a977f1792fd7fc5371096cba908796c110de93b6e9df",
+  "size": 2451608
+ },
+ "version": "20261125.145914",
+ "published": "2026-11-25 14:59 UTC"
+}
