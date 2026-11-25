@@ -203,12 +203,12 @@
    "logs": "round-logs",
    "round_end": "host: results in",
    "package": {
-    "file": "game.chameleon.f54cb1b67721.tar.gz",
-    "sha256": "f54cb1b6772136f1be6b9942b55e0d21d178362d0bfd7f2a39fc58cbdcf09225",
-    "size": 3099377
+    "file": "game.chameleon.49ff6e4424a9.tar.gz",
+    "sha256": "49ff6e4424a912eb2741a080282b411e31110998728dc8e68b9320fbed9f00dc",
+    "size": 3125058
    },
    "handheld_files": [
-    "chameleon.chameleon.cbfdafab91f8"
+    "chameleon.chameleon.be1cfe35289e"
    ]
   }
  ],
@@ -222,6 +222,6 @@
   "sha256": "8940f00067d5ab896413a977f1792fd7fc5371096cba908796c110de93b6e9df",
   "size": 2451608
  },
- "version": "20261125.003555",
- "published": "2026-11-25 00:35 UTC"
+ "version": "20261125.011919",
+ "published": "2026-11-25 01:19 UTC"
 }
