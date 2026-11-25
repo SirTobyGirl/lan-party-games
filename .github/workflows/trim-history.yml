@@ -1,0 +1,57 @@
+# Keeps this repo small. Hubs and handhelds only read the current files in server/ and games/
+# (server/ also keeps the version before, for rollback), and the source and its history live in
+# the private source repo. So after every merge to main, main is replaced by one commit holding
+# the same files, and branches with no open pull request are deleted. Without this the repo grew
+# by every build (about 300 MB in its first three weeks).
+#
+# hub/tools/publish.py --git always builds its branch on the current main, so a publish made
+# after a trim still merges cleanly.
+name: trim-history
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: read
+
+concurrency:
+  group: trim-history
+  cancel-in-progress: false
+
+jobs:
+  trim:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Replace main with one commit of the current files
+        run: |
+          set -eu
+          if [ "$(git rev-parse HEAD)" != "${{ github.sha }}" ] && [ "${{ github.event_name }}" = "push" ]; then
+            echo "main moved on since this run started; the newer run trims it"; exit 0
+          fi
+          version=$(python3 -c "import json;print(json.load(open('server/manifest.json')).get('version','?'))" 2>/dev/null || echo "?")
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -q --orphan trimmed
+          git commit -q -m "LAN Party release files, version $version" \
+            -m "History is trimmed after every publish by .github/workflows/trim-history.yml; the source history is in the private repo."
+          git push --force-with-lease=main:${{ github.sha }} origin trimmed:main
+
+      - name: Delete branches with no open pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -eu
+          open=$(gh pr list --repo "$GITHUB_REPOSITORY" --state open --json headRefName --jq '.[].headRefName')
+          git ls-remote --heads origin | awk '{sub("refs/heads/","",$2); print $2}' | while read -r b; do
+            [ "$b" = main ] && continue
+            if printf '%s\n' "$open" | grep -qx "$b"; then echo "keep $b (open PR)"; continue; fi
+            echo "delete $b"; git push -q origin --delete "$b" || true
+          done
