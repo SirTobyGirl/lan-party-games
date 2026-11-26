@@ -56,9 +56,9 @@
    "logs": "round-logs",
    "round_end": "host: results in",
    "package": {
-    "file": "game.skate.99820a0142b2.tar.gz",
-    "sha256": "99820a0142b2e70ba77e0597b858f91252821aca6e8d8b9cb6d3ff7df38ec991",
-    "size": 3234392
+    "file": "game.skate.8082f0733dea.tar.gz",
+    "sha256": "8082f0733deaa1b35701d95babcc506fa9b6c6f4322f09e5d20571e5a75630ac",
+    "size": 3366635
    },
    "handheld_files": [
     "skate.skate.cab0b696a119"
@@ -234,15 +234,15 @@
   }
  ],
  "hub": {
-  "file": "hub.core.b7c6438cd34c.tar.gz",
-  "sha256": "b7c6438cd34caaa179e70a8e8f935466915cc50cc25db5451ddaf9b9d6faa706",
-  "size": 72192
+  "file": "hub.core.27c5d73d4075.tar.gz",
+  "sha256": "27c5d73d40752cc2edebcd3e116f3a21859867a65b7e0e049940998c1b7cdeff",
+  "size": 74305
  },
  "announcer": {
   "file": "announcer.voice.d770d3ba8f36.tar.gz",
   "sha256": "d770d3ba8f36934282b0dbe396f721b87f06e265dde314bb0ae132594c8f5267",
   "size": 2632130
  },
- "version": "20261126.022547",
- "published": "2026-11-26 02:25 UTC"
+ "version": "20261126.110534",
+ "published": "2026-11-26 11:05 UTC"
 }
