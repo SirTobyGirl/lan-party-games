@@ -224,12 +224,12 @@
    "logs": "factory-logs",
    "round_end": "host: (factory calm|results in)",
    "package": {
-    "file": "game.unityfactory.298244453cba.tar.gz",
-    "sha256": "298244453cbadbca79891d5c33deaa22f1f26f816320a3227f979b873943710a",
-    "size": 3158846
+    "file": "game.unityfactory.e6b1461a0305.tar.gz",
+    "sha256": "e6b1461a030514c75f6382cf90f2e875ba5a703c0303bdb03a9b93f1a88aa0d8",
+    "size": 3297787
    },
    "handheld_files": [
-    "unityfactory.unityfactory.0ef78c22101d"
+    "unityfactory.unityfactory.b3a35e9e69e9"
    ]
   }
  ],
@@ -243,6 +243,6 @@
   "sha256": "d770d3ba8f36934282b0dbe396f721b87f06e265dde314bb0ae132594c8f5267",
   "size": 2632130
  },
- "version": "20261125.221322",
- "published": "2026-11-25 22:13 UTC"
+ "version": "20261126.022547",
+ "published": "2026-11-26 02:25 UTC"
 }
